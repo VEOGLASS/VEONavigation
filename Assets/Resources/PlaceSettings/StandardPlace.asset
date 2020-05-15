@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62cef320ea4ce8b4a85135029c22aa9d, type: 3}
+  m_Name: StandardPlace
+  m_EditorClassIdentifier: 
+  useTypeIcon: 1
+  useFixedScale: 1
+  useFixedHeight: 0
+  usePointingLine: 1
+  maxNameCharacters: 15
+  fixedSize: 0.001
+  fixedHeight: 2
+  nameTextFontSize: 0.9
+  typeTextFontSize: 0.6
+  distTextFontSize: 0.6
+  nameTextOption: 513
+  distTextOption: 513
+  typeTextOption: 513
+  labelColor: {r: 0, g: 0, b: 0, a: 0.47058824}
+  outlineColor: {r: 0, g: 0, b: 0, a: 0}
+  iconColor: {r: 1, g: 1, b: 1, a: 1}
+  iconSize: {x: 0.25, y: 0.25}
+  iconAnchorMin: {x: 0.5, y: 0.5}
+  iconAnchorMax: {x: 0.5, y: 0.5}

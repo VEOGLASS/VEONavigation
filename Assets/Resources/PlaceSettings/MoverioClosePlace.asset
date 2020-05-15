@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62cef320ea4ce8b4a85135029c22aa9d, type: 3}
+  m_Name: MoverioClosePlace
+  m_EditorClassIdentifier: 
+  useTypeIcon: 0
+  useFixedScale: 1
+  useFixedHeight: 0
+  usePointingLine: 1
+  maxNameCharacters: 15
+  fixedSize: 0.001
+  fixedHeight: 2
+  nameTextFontSize: 0.8
+  typeTextFontSize: 0.55
+  distTextFontSize: 0.55
+  nameTextOption: 513
+  distTextOption: 513
+  typeTextOption: 513
+  labelColor: {r: 0.16981131, g: 0.16981131, b: 0.16981131, a: 0.47058824}
+  outlineColor: {r: 1, g: 1, b: 1, a: 1}
+  iconColor: {r: 1, g: 1, b: 1, a: 1}
+  iconSize: {x: 0.75, y: 0.75}
+  iconAnchorMin: {x: 0.9, y: 0.5}
+  iconAnchorMax: {x: 0.9, y: 1.15}
