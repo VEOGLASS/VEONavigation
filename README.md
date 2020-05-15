@@ -1,1 +1,1 @@
-# XploriaAR
+# VEO Navigation
